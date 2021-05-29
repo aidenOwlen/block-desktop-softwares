@@ -3,7 +3,7 @@
 ;MAIN FILE !
 
 ;[PART 1]Begin****
-;You don't have to understand this part, those are some old autoit's work, we need to include it, to use it without having to writing it again.
+;You don't have to understand this part, these are some packages we need to include.
 ;~~~~~~~~~~~~~~~~INCLUDES~~~~~~~~~~~~~~~~~~~~~
 #include<WindowsConstants.au3> ;~~~~~~~~~~~~~~ For some windows constants
 #include<GuiConstantsEx.au3>   ;~~~~~~~~~~~~~~ For some gui constants ( to have a beautiful interface )
